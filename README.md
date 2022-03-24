@@ -1,3 +1,3 @@
 ### Price Bot
 
-1st puthon project 
+1st python project 
